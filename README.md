@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Karbyde
 - 👀 I’m interested in Web & Software Development
-- 🌱 I’m currently learning C language
+- 🌱 I know C,Java and Python languages
 - 💞️ I’m looking to collaborate with people on interesting projects
 - 📫 How to reach me : decipher297@gmail.com
 
