@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Karbyde
+- 👋 Hi, I’m @Subhradeep Basu
 - 👀 I’m interested in Web & Software Development
 - 🌱 I know C,Java and Python languages
 - 💞️ I’m looking to collaborate with people on interesting projects
