@@ -14,8 +14,8 @@ Welcome to my GitHub profile! I am dedicated to writing clean, efficient, and we
 
 ## Get in Touch
 
-- (LinkedIn)[https://www.linkedin.com/in/subhradeep-basu-786aab209/]
-- (Twitter)[https://twitter.com/SubhradeepBasu5]
-- (Email)[subhradeepbasu2002@gmail.com]
+- [LinkedIn](https://www.linkedin.com/in/subhradeep-basu-786aab209/)
+- [Twitter](https://twitter.com/SubhradeepBasu5)
+- [Email](subhradeepbasu2002@gmail.com)
 
 Feel free to explore my repositories and reach out if you have any questions or collaboration opportunities. Happy coding!
