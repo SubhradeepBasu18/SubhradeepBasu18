@@ -1,10 +1,21 @@
-- 👋 Hi, I’m @Subhradeep Basu
-- 👀 I’m interested in Web & Software Development
-- 🌱 I know C,Java and Python languages
-- 💞️ I’m looking to collaborate with people on interesting projects
-- 📫 How to reach me : decipher297@gmail.com
+Welcome to my GitHub profile! I am dedicated to writing clean, efficient, and well-documented code while continuously learning and exploring new technologies.
 
-<!---
-Karbyde/Karbyde is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me
+
+-> I am a 2nd year BTech undergrad. 
+-> Currently exploring Front End Dev
+-> Eager to learn new technologies
+
+## Technologies I Work With
+
+- Programming Languages: C++, JAVA, C, Python
+- Frameworks and Libraries: Express JS
+- Databases: Mongo D
+
+## Get in Touch
+
+- LinkedIn: [https://www.linkedin.com/in/subhradeep-basu-786aab209/]
+- Twitter: [https://twitter.com/SubhradeepBasu5]
+- Email: [subhradeepbasu2002@gmail.com]
+
+Feel free to explore my repositories and reach out if you have any questions or collaboration opportunities. Happy coding!
