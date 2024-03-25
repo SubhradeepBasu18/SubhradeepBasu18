@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I am dedicated to writing clean, efficient, and we
 
 - Programming Languages: C++, JAVA, C, Python
 - Frameworks and Libraries: Express JS
-- Databases: Mongo D
+- Databases: Mongo DB
 
 ## Get in Touch
 
