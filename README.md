@@ -1,21 +1,55 @@
-Welcome to my GitHub profile! I am dedicated to writing clean, efficient, and well-documented code while continuously learning and exploring new technologies.
+## Hey 👋, I'm Subhradeep Basu!
 
-## About Me
+<a href='https://www.linkedin.com/in/subhradeep-basu-786aab209/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/SubhradeepBasu18/SubhradeepBasu18/main/assets/icons8-linkedin.svg" height='38px'/></a>
+<a href='https://twitter.com/SubhradeepBasu5'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/SubhradeepBasu18/SubhradeepBasu18/main/assets/icons8-twitterx.svg" height='42px'/></a>
+<a href='https://www.instagram.com/subhradeepbasu12/'><img align='left' alt="instagram" src="https://raw.githubusercontent.com/SubhradeepBasu18/SubhradeepBasu18/main/assets/icons8-ig.svg" height='42px'/></a>
+<a href='https://hashnode.com/@Subhradeep18'><img align='left' alt="hashnode" src="https://raw.githubusercontent.com/SubhradeepBasu18/SubhradeepBasu18/main/assets/icons8-hashnode.svg" height='35px'/></a>
 
-- I am a 2nd year BTech undergrad. 
-- Currently exploring Front End Dev
-- Eager to learn new technologies
+<br/>
+<br/>
+<br/>
+Welcome to my GitHub profile! I am dedicated to writing clean and efficient code while continuously learning and exploring new technologies.
 
-## Technologies I Work With
+<br/>
+<br/>
+<br/>
+<img align="right" alt="GIF" src="assets/giphy.gif" width="360px"/>
 
-- Programming Languages: C++, JAVA, C, Python
-- Frameworks and Libraries: Express JS
-- Databases: Mongo DB
+### 🧐 More About Me:
 
-## Get in Touch
+- 🔭 &nbsp; I am a 2nd year BTech undergrad.
+- 🤝 &nbsp; I’m looking to collaborate on Front-End
+- 🌱 &nbsp; I’m currently learning React JS; 
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/SubhradeepBasu18?tab=repositories)
+- 💬 &nbsp; Feel free to ask me about anything related to technology,I will do my best to assist you. I am here to help.
+- 📫 &nbsp; Can reach me on [LinkedIn](https://www.linkedin.com/in/subhradeep-basu-786aab209/)
+- 📚 &nbsp; Check out my blogs on [HashNode](https://hashnode.com/@Subhradeep18)
 
-- [LinkedIn](https://www.linkedin.com/in/subhradeep-basu-786aab209/)
-- [Twitter](https://twitter.com/SubhradeepBasu5)
-- [Email](subhradeepbasu2002@gmail.com)
+<br>
 
-Feel free to explore my repositories and reach out if you have any questions or collaboration opportunities. Happy coding!
+### 🔨 Languages and Tools
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img align="left" alt="html" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/main/language_and_tools/square/html/html.svg"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img align="left" alt="css" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/main/language_and_tools/square/css/css.svg"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img align="left" alt="Js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/main/language_and_tools/square/javascript/javascript.svg"></a>
+<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
+<a href="https://devdocs.io/cpp/" target="_blank"><img align="left" alt="Cpp" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/main/language_and_tools/square/c%2B%2B/c%2B%2B.svg"></a>
+<a href="https://react.dev/" target="_blank"><img align="left" alt="react" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/main/language_and_tools/square/react/react.svg"></a>
+
+<br>
+<br>
+<br>
+
+### 📊 Github Stats
+<a href='https://github.com/SubhradeepBasu18/github-stats-transparent'>
+  
+![Stats Overview](https://github-readme-stats.vercel.app/api?username=SubhradeepBasu18&show_icons=true&theme=radical)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=dark&layout=compact&margin-w=25)
+
+
+</a>
+
+<br>
+
+
+
+
