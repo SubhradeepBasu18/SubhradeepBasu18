@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I am dedicated to writing clean and efficient code
 
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I am a 2nd year BTech undergrad.
+- 🔭 &nbsp; I am a 3rd year BTech undergrad.
 - 🤝 &nbsp; I’m looking to collaborate on Front-End
 - 🌱 &nbsp; I’m currently learning React JS; 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/SubhradeepBasu18?tab=repositories)
