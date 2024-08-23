@@ -35,6 +35,7 @@ Welcome to my GitHub profile! I am dedicated to writing clean and efficient code
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
 <a href="https://devdocs.io/cpp/" target="_blank"><img align="left" alt="Cpp" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/main/language_and_tools/square/c%2B%2B/c%2B%2B.svg"></a>
 <a href="https://devdocs.io/c/" target="_blank"><img align="left" alt="react" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/main/language_and_tools/square/c/c.svg"></a>
+<a href="https://appwrite.io/docs" target="_blank"><img align="left" alt="react" height ="42px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Appwrite.svg"></a>
 
 <br>
 <br>
