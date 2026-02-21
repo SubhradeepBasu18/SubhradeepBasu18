@@ -44,9 +44,7 @@ Welcome to my GitHub profile! I am dedicated to writing clean and efficient code
 ### 📊 Github Stats
 <a href='https://github.com/SubhradeepBasu18/github-stats-transparent'>
   
-![Stats Overview](https://github-readme-stats.vercel.app/api?username=SubhradeepBasu18&show_icons=true&theme=radical)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SubhradeepBasu18&theme=dark&layout=compact&margin-w=25)
-
+[![Subhradeep's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SubhradeepBasu18&theme=tokyo-night)](https://github.com/SubhradeepBasu18/github-readme-activity-graph)
 
 </a>
 
