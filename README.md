@@ -28,14 +28,12 @@ Welcome to my GitHub profile! I am dedicated to writing clean and efficient code
 <br>
 
 ### 🔨 Languages and Tools
-<div align="center">
   
 ![Languages](https://go-skill-icons.vercel.app/api/icons?i=js,ts,cs,cpp,java,rust&theme=dark&perline=10)
 
 ![Web Technologies](https://go-skill-icons.vercel.app/api/icons?i=html,css,jquery,nodejs,dotnet,react,tailwind,bootstrap,express,postgresql,mongodb,mysql,drizzle,dapper&theme=dark&perline=18)
 
 ![Tools](https://go-skill-icons.vercel.app/api/icons?i=aws,docker,git,postman,chatgpt,vercel,railway,render,&theme=dark&perline=10)
-</div>
 
 <br>
 <br>
